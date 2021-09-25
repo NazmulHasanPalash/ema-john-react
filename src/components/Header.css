@@ -1,0 +1,22 @@
+.headerStyle img{
+    width: 25%;
+    
+}
+.headerStyle{
+    text-align: center;
+}
+.navBar{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.navBar a{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.navBar a:hover{
+    background-color: lightsalmon;
+}
